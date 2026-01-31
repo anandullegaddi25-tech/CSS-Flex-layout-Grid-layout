@@ -1,2 +1,2 @@
 # my-css-repo
-css practice and small projects
+CSS practice and small projects
