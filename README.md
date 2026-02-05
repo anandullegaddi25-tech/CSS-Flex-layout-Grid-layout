@@ -1,2 +1,7 @@
-# my-css-repo
-CSS practice and small projects
+# CSS Flexbox
+
+This repository contains basic CSS Flexbox layouts for practice.
+
+- HTML & CSS
+- Flexbox properties
+- Beginner friendly
