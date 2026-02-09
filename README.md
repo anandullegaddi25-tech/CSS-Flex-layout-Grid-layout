@@ -1,4 +1,4 @@
-# CSS Flexbox
+# Flex-layout & Grid-layout
 
 This repository contains basic CSS Flexbox layouts for practice.
 
