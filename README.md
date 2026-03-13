@@ -7,7 +7,7 @@ This repository contains basic CSS Flexbox layouts for practice.
 - Beginner friendly
 
 # Live Demo:
-- https://anandullegaddi25-tech.github.io/my-css-repo/
+https://anandullegaddi25-tech.github.io/CSS-Flex-layout-Grid-layout/
 
 # Author 
 Anand Ullegaddi 
